@@ -1,1 +1,4 @@
-# TheBridge_DataScience_Proyecto_Bank_account
+# TheBridge_DataScience_Proyecto_Synthetic_data_bank_generator
+
+
+## 
