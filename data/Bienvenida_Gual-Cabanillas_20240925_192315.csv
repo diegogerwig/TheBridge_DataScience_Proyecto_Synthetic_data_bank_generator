@@ -1,0 +1,314 @@
+Date,Type,Category,Amount,Location,Balance
+2023-09-27 00:21:51.686541,Expense,Other,€-411.71,"BI-707, Ganbe, Derio, Andraka, Bizkaia, Euskadi, 48620, España",€-411.71
+2023-09-28 16:48:51.686541,Expense,Leisure,€-682.42,"Landapea, Bermeo, Bizkaia, Euskadi, España",€-1094.13
+2023-09-29 09:21:51.686541,Expense,Mortgage,€-965.61,"Bilbao, Spain",€-2059.74
+2023-09-29 13:15:51.686541,Expense,Food,€-812.76,"Herriko Plaza, Elexabeitia, Artea, Bizkaia, Euskadi, 48142, España",€-2872.50
+2023-09-29 19:49:51.686541,Expense,Mortgage,€-1266.76,"Bilbao, Spain",€-4139.26
+2023-09-30 18:50:51.686541,Expense,Utilities,€-410.41,"Bilbao, Spain",€-4549.67
+2023-10-01 19:34:51.686541,Expense,Other,€-428.16,"Derio, Andraka, Bizkaia, Euskadi, 48620, España",€-4977.82
+2023-10-02 07:31:51.686541,Income,Salary,€4008.15,"Bilbao, Spain",€-969.67
+2023-10-02 12:18:51.686541,Expense,Leisure,€-516.16,"BU-V-5612, Cogullos, Merindad de Sotoscueva, Burgos, Castilla y León, España",€-1485.83
+2023-10-03 13:39:51.686541,Expense,Food,€-669.88,"Carretera Zazpilanda / Zazpilandako errepidea, Zazpilanda, Basurtu-Zorrotza, Bilbao, Bizkaia, Euskadi, 48013, España",€-2155.71
+2023-10-03 22:24:51.686541,Expense,Food,€-852.62,"Garate, Zuaza/Zuhatza, Ayala/Aiara, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01477, España",€-3008.33
+2023-10-05 15:11:51.686541,Expense,Utilities,€-357.39,"Bilbao, Spain",€-3365.72
+2023-10-05 20:24:51.686541,Expense,Food,€-763.71,"26, Larrazabal kalea/Calle Larrazabal, Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-4129.43
+2023-10-07 20:05:51.686541,Expense,Leisure,€-670.95,"El Portillo, Etayo, Montejurra, Navarra - Nafarroa, 31280, España",€-4800.38
+2023-10-07 21:09:51.686541,Expense,Food,€-726.64,"25, Calle Autonomía / Autonomia kalea, Ametzola, Errekalde, Bilbao, Bizkaia, Euskadi, 48012, España",€-5527.01
+2023-10-08 00:26:51.686541,Expense,Other,€-426.20,"Túmulo Kaateko soroa, Olako bidea, Igoa, Basaburua, Larraun-Leitzaldea, 31866, España",€-5953.21
+2023-10-08 20:23:51.686541,Expense,Leisure,€-564.98,"Andraka, Bizkaia, Euskadi, 48620, España",€-6518.20
+2023-10-09 00:39:51.686541,Expense,Utilities,€-341.72,"Bilbao, Spain",€-6859.91
+2023-10-11 19:50:51.686541,Expense,Food,€-773.37,"Sopuerta, Bizkaia, Euskadi, 48190, España",€-7633.29
+2023-10-12 10:29:51.686541,Expense,Utilities,€-414.15,"Bilbao, Spain",€-8047.43
+2023-10-14 09:13:51.686541,Expense,Leisure,€-515.96,"Etxebarri, BI-3950, Galartza industria poligonoa, Etxebarria, Bizkaia, Euskadi, 48277, España",€-8563.39
+2023-10-14 16:18:51.686541,Expense,Food,€-793.44,"BI-3702, Moiordin-Barrondo, Burbustu-Altamira, Zaratamo, Bizkaia, Euskadi, 48480, España",€-9356.83
+2023-10-15 14:26:51.686541,Expense,Leisure,€-563.97,"saratxo-berenilla, Güeñes, Bizkaia, Euskadi, 48840, España",€-9920.80
+2023-10-19 18:26:51.686541,Expense,Other,€-432.70,"61, Gatzarriñe kalea, Ugeraga, Sopela, Andraka, Bizkaia, Euskadi, 48620, España",€-10353.50
+2023-10-20 01:33:51.686541,Expense,Leisure,€-648.10,"Camino Santiago / Donejakue bidea, Subijana de Álava/Subillana-Gasteiz, Nanclares de la Oca/Langraiz Oka, Iruña Oka/Iruña de Oca, Añanako kuadrilla/Cuadrilla de Añana, Araba/Álava, Euskadi, 01230, España",€-11001.61
+2023-10-21 19:03:51.686541,Expense,Food,€-798.03,"Eguzkitza bidea, Baserri-Santa Ana, Iturriaga, Berango, Andraka, Bizkaia, Euskadi, 48620, España",€-11799.64
+2023-10-22 06:07:51.686541,Expense,Food,€-904.25,"Ganeranerako igoera, Galdames, Bizkaia, Euskadi, 48191, España",€-12703.89
+2023-10-22 18:14:51.686541,Expense,Car,€-600.76,"Bilbao, Spain",€-13304.65
+2023-10-23 19:39:51.686541,Expense,Leisure,€-614.37,"A-2521, Comunidad de Basaude, Goiuri-Ondona, Urkabustaiz, Gorbeialdea, Araba/Álava, Euskadi, 01449, España",€-13919.02
+2023-10-25 01:06:51.686541,Expense,Other,€-306.37,España,€-14225.40
+2023-10-26 02:34:51.686541,Expense,Food,€-783.96,"Avia, Polígono Industrial Aeroportuario, Polígono Industrial Aeropuerto, Derio, Andraka, Bizkaia, Euskadi, 48620, España",€-15009.35
+2023-10-26 11:18:51.686541,Expense,Leisure,€-671.61,"Portillo de Melaria / Melariako mendatea, Valdegovía/Gaubea, Añanako kuadrilla/Cuadrilla de Añana, Araba/Álava, Euskadi, 01426, España",€-15680.96
+2023-10-27 00:02:51.686541,Expense,Food,€-763.25,"Larrabizker Zehar bidea, Mungia, Andraka, Bizkaia, Euskadi, 48620, España",€-16444.22
+2023-10-29 11:51:51.686541,Expense,Other,€-301.85,"Arkotxa auzoa, Zaratamo, Bizkaia, Euskadi, 48960, España",€-16746.07
+2023-10-31 18:34:51.686541,Expense,Other,€-419.00,"Valdellado, Junta de Traslaloma, Burgos, Castilla y León, España",€-17165.07
+2023-11-02 07:12:51.686541,Income,Salary,€4540.81,"Bilbao, Spain",€-12624.26
+2023-11-04 16:33:51.686541,Expense,Food,€-819.86,"Barrio El Llano, Sollano-Llantada, Zalla, Bizkaia, Euskadi, 48860, España",€-13444.12
+2023-11-05 03:27:51.686541,Expense,Food,€-797.49,"Loiola Ander Deuna kalea, Berango, Andraka, Bizkaia, Euskadi, 48620, España",€-14241.61
+2023-11-05 20:49:51.686541,Expense,Food,€-934.88,"5, BI-3332, Ibarruri, Muniketa, Muxika, Bizkaia, Euskadi, 48392, España",€-15176.49
+2023-11-08 06:49:51.686541,Expense,Food,€-696.76,"Etxe-Uli, Balparda, Santurtzi, Bizkaia, Euskadi, 48620, España",€-15873.24
+2023-11-09 03:58:51.686541,Expense,Leisure,€-577.94,"Andraka, Bizkaia, Euskadi, 48620, España",€-16451.18
+2023-11-10 09:54:51.686541,Expense,Food,€-928.77,"Lemoa - Amorebieta-Etxano errepidea, Bolunburu, Lemoa, Bizkaia, Euskadi, 48330, España",€-17379.95
+2023-11-12 04:36:51.686541,Expense,Leisure,€-606.84,"Andraka, Bizkaia, Euskadi, 48620, España",€-17986.79
+2023-11-12 19:35:51.686541,Expense,Food,€-777.91,"175-B, Garaioltza auzoa, Urbanización el caserío, Mandagiliz, Lezama, Bizkaia, Euskadi, 48196, España",€-18764.70
+2023-11-14 12:32:51.686541,Expense,Food,€-770.80,"4, Gardea kalea/Calle Gardea, Santa Cruz de Llodio, Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-19535.50
+2023-11-15 01:15:51.686541,Expense,Leisure,€-576.44,"Barrio Posadoiros, Oruña, Piélagos, Cantabria, 39477, España",€-20111.94
+2023-11-15 03:50:51.686541,Expense,Food,€-779.07,"41 Zabalbide - Basobide, Baso bidea, Atxuri, Ibaiondo, Bilbao, Bizkaia, Euskadi, 48006, España",€-20891.01
+2023-11-17 06:17:51.686541,Expense,Leisure,€-580.65,"Fraileburu, Ibarrangelu, Bizkaia, Euskadi, 48317, España",€-21471.66
+2023-11-18 07:27:51.686541,Expense,Food,€-704.11,"Zollo, Aspiuntza, Arrankudiaga, Arrankudiaga-Zollo, Bizkaia, Euskadi, 48490, España",€-22175.77
+2023-11-19 05:10:51.686541,Expense,Other,€-434.52,"Motosabide, Egalesaburu xendra, Orozko, Bizkaia, Euskadi, 48410, España",€-22610.29
+2023-11-19 22:15:51.686541,Expense,Utilities,€-411.68,"Bilbao, Spain",€-23021.97
+2023-11-20 15:29:51.686541,Expense,Leisure,€-635.04,"La Cueva, Junta de Traslaloma, Burgos, Castilla y León, España",€-23657.01
+2023-11-23 15:40:51.686541,Expense,Other,€-389.48,España,€-24046.49
+2023-11-24 10:08:51.686541,Expense,Car,€-602.02,"Bilbao, Spain",€-24648.51
+2023-11-24 11:29:51.686541,Expense,Other,€-375.59,"Cuesta Blanco, Quintanaélez, Burgos, Castilla y León, España",€-25024.11
+2023-11-26 21:09:51.686541,Expense,Food,€-825.53,"BI-3513, Elexabeitia, Artea, Bizkaia, Euskadi, 48142, España",€-25849.64
+2023-11-28 13:49:51.686541,Expense,Food,€-776.59,"Urko kiroldegia, Sopelako saihesbidea, Argalutza, Sopela, Andraka, Bizkaia, Euskadi, 48620, España",€-26626.23
+2023-11-29 10:02:51.686541,Expense,Leisure,€-631.03,"BU-V-5146, Tudanca de Ebro, Los Altos, Burgos, Castilla y León, 09551, España",€-27257.27
+2023-11-30 10:23:51.686541,Expense,Leisure,€-555.91,"Urruzuno bailara, Urruzuno, Elgoibar, Debabarrena, Gipuzkoa, Euskadi, 20870, España",€-27813.17
+2023-12-01 12:44:51.686541,Expense,Food,€-811.10,"Carretera del Hospital Santa Marina a Kukullaga, Barrio Kukullaga, Otxarkoaga-Txurdinaga, Etxebarri, Bizkaia, Euskadi, 48450, España",€-28624.28
+2023-12-02 02:35:51.686541,Expense,Car,€-463.87,"Bilbao, Spain",€-29088.15
+2023-12-02 09:19:51.686541,Income,Salary,€5872.63,"Bilbao, Spain",€-23215.52
+2023-12-03 04:09:51.686541,Expense,Food,€-771.00,"Islabemendi, Derio, Andraka, Bizkaia, Euskadi, 48620, España",€-23986.52
+2023-12-06 12:29:51.686541,Expense,Food,€-837.06,"Zetas hacia Tarín, Alonsotegi, Bizkaia, Euskadi, 48002, España",€-24823.58
+2023-12-09 11:36:51.686541,Expense,Leisure,€-683.20,"Antigua ermita de Santa Lucía, Calle Real, San Pedro del Monte, Bascuñana, Burgos, Castilla y León, 09259, España",€-25506.78
+2023-12-09 23:06:51.686541,Expense,Leisure,€-550.54,"Getxo FC, Makaleta etorbidea, Aiboa, Getxo, Andraka, Bizkaia, Euskadi, 48620, España",€-26057.33
+2023-12-10 15:24:51.686541,Expense,Utilities,€-440.81,"Bilbao, Spain",€-26498.13
+2023-12-14 20:56:51.686541,Expense,Extra Expense,€-1505.61,"Mina Pickwick, Zugaztieta / La Arboleda - Muskiz, Picuí, Ortuella, Bizkaia, Euskadi, 48500, España",€-28003.74
+2023-12-16 07:26:51.686541,Expense,Car,€-670.43,"Bilbao, Spain",€-28674.17
+2023-12-17 05:33:51.686541,Expense,Leisure,€-629.34,"Andraka, Bizkaia, Euskadi, 48620, España",€-29303.52
+2023-12-17 18:15:51.686541,Expense,Food,€-793.63,"38, Enekuri-Artxanda errepidea, Bilbao, Bizkaia, Euskadi, 48015, España",€-30097.15
+2023-12-18 05:59:51.686541,Expense,Food,€-889.47,"Lotina, Aldai, Fruiz, Andraka, Bizkaia, Euskadi, 48620, España",€-30986.62
+2023-12-18 07:06:51.686541,Expense,Other,€-426.22,"Mendisugarra, Lana, Estellerria / Tierra Estella, Navarra - Nafarroa, España",€-31412.84
+2023-12-19 16:21:51.686541,Expense,Leisure,€-617.12,"Agiña/tejo, Mal camino, Zeanuri, Bizkaia, Euskadi, 48148, España",€-32029.96
+2023-12-20 12:17:51.686541,Expense,Food,€-716.95,"Mungia - Gamiz-Fika errepidea, Elgezabal, Mungia, Andraka, Bizkaia, Euskadi, 48620, España",€-32746.91
+2023-12-22 16:19:51.686541,Expense,Other,€-399.82,"Zeanuri, Bizkaia, Euskadi, 48148, España",€-33146.74
+2023-12-23 13:09:51.686541,Expense,Mortgage,€-966.95,"Bilbao, Spain",€-34113.68
+2023-12-24 03:49:51.686541,Expense,Food,€-785.59,"BI-3114, Txipio, Barrika, Andraka, Bizkaia, Euskadi, 48620, España",€-34899.27
+2023-12-26 08:21:51.686541,Expense,Food,€-701.95,"3, Barrio La Isequilla, Mimetiz, Zalla, Bizkaia, Euskadi, 48860, España",€-35601.23
+2023-12-27 09:05:51.686541,Expense,Food,€-780.96,"La Barra, Itsaslur auzoa, Pobeña, Muskiz, Bizkaia, Euskadi, 48508, España",€-36382.19
+2023-12-27 10:14:51.686541,Expense,Leisure,€-571.89,"Andraka, Bizkaia, Euskadi, 48620, España",€-36954.08
+2023-12-28 17:05:51.686541,Expense,Utilities,€-394.53,"Bilbao, Spain",€-37348.61
+2023-12-29 08:06:51.686541,Expense,Leisure,€-578.25,"Vallemanco, Comunión/Komunioi, Lantarón, Añanako kuadrilla/Cuadrilla de Añana, Araba/Álava, Euskadi, 01213, España",€-37926.86
+2023-12-29 13:03:51.686541,Expense,Food,€-830.58,"BI-2121, Polígono Industrial Belako, Atela, Mungia, Andraka, Bizkaia, Euskadi, 48620, España",€-38757.44
+2024-01-01 22:14:51.686541,Expense,Food,€-943.23,"Aranoltza (San Antolin), Zamudio, Bizkaia, Euskadi, 48170, España",€-39700.67
+2024-01-02 06:44:51.686541,Income,Salary,€4623.67,"Bilbao, Spain",€-35076.99
+2024-01-04 22:12:51.686541,Expense,Food,€-816.80,"Andraka, Bizkaia, Euskadi, 48620, España",€-35893.80
+2024-01-08 19:18:51.686541,Expense,Food,€-716.03,"Bunker, Monte Avril bidea, Galdakao, Bizkaia, Euskadi, 48960, España",€-36609.82
+2024-01-09 22:28:51.686541,Expense,Food,€-765.28,"Alonsotegi, Bizkaia, Euskadi, 48810, España",€-37375.11
+2024-01-11 12:23:51.686541,Expense,Food,€-794.26,"Elorriaga auzoa, Leginetxe, Anton Mendikoa, Amorebieta-Etxano, Bizkaia, Euskadi, 48330, España",€-38169.37
+2024-01-11 13:12:51.686541,Expense,Leisure,€-479.31,"Camino a Berretin, Dehesas Agregadas de Zuya, Markina, Zuia, Gorbeialdea, Araba/Álava, Euskadi, 01139, España",€-38648.68
+2024-01-12 23:05:51.686541,Expense,Car,€-604.29,"Bilbao, Spain",€-39252.97
+2024-01-13 14:26:51.686541,Expense,Food,€-811.15,"Madaleneko ermita, BI-2121, Polígono Industrial Belako, Atela, Mungia, Andraka, Bizkaia, Euskadi, 48620, España",€-40064.12
+2024-01-14 06:00:51.686541,Expense,Car,€-670.99,"Bilbao, Spain",€-40735.11
+2024-01-15 20:12:51.686541,Expense,Other,€-418.47,"1, Hondartza kalea/Calle la Playa, Sobrón, Lantarón, Añanako kuadrilla/Cuadrilla de Añana, Araba/Álava, Euskadi, 01423, España",€-41153.58
+2024-01-16 04:24:51.686541,Expense,Leisure,€-649.86,"Laurekate, Narbaiza, San Millán/Donemiliaga, Arabako lautada/Llanada Alavesa, Araba/Álava, Euskadi, 01208, España",€-41803.44
+2024-01-16 13:30:51.686541,Expense,Food,€-830.90,"El Campillo, Ubieta, Güeñes, Bizkaia, Euskadi, 48850, España",€-42634.34
+2024-01-17 02:12:51.686541,Expense,Food,€-748.88,"Barrio Meñakabarrena, Meñakabarrena, Meñaka, Andraka, Bizkaia, Euskadi, 48620, España",€-43383.22
+2024-01-17 11:41:51.686541,Income,Extra Income,€2815.26,"Bilbao, Spain",€-40567.97
+2024-01-18 13:27:51.686541,Expense,Other,€-368.82,"Calle Arsenio, Ornás, Sámano, Castro-Urdiales, Cantabria, 39709, España",€-40936.79
+2024-01-18 21:17:51.686541,Expense,Food,€-822.48,"Elexalde, Getxo, Andraka, Bizkaia, Euskadi, 48993, España",€-41759.27
+2024-01-18 21:27:51.686541,Expense,Leisure,€-606.17,"BI-3108, Elordigane, Markaida, Maruri-Jatabe, Andraka, Bizkaia, Euskadi, 48620, España",€-42365.43
+2024-01-20 14:37:51.686541,Expense,Food,€-957.94,"Aitxarte, Carretera Arrigorriaga - Bilbao (Buia), Abusu / La Peña, Buia, Ibaiondo, Bilbao, Bizkaia, Euskadi, 48003, España",€-43323.37
+2024-01-20 23:52:51.686541,Expense,Leisure,€-614.05,"Iturzurigaña trikuharria, BI-633, Sallobente, Besoita, Berriz, Bizkaia, Euskadi, 48240, España",€-43937.42
+2024-01-21 19:36:51.686541,Expense,Other,€-441.53,"Bagate, Delika, Amurrio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01468, España",€-44378.95
+2024-01-21 22:53:51.686541,Expense,Car,€-578.81,"Bilbao, Spain",€-44957.76
+2024-01-24 03:15:51.686541,Expense,Utilities,€-420.90,"Bilbao, Spain",€-45378.66
+2024-01-25 17:55:51.686541,Expense,Food,€-817.39,"Miragana, Alonsotegi, Bizkaia, Euskadi, 48810, España",€-46196.05
+2024-01-27 01:44:51.686541,Expense,Mortgage,€-1146.29,"Bilbao, Spain",€-47342.34
+2024-01-27 12:57:51.686541,Expense,Food,€-800.80,"Urteta, Larrabetzu, Bizkaia, Euskadi, 48195, España",€-48143.15
+2024-01-28 03:12:51.686541,Expense,Leisure,€-607.85,"Calle Montealegre, Montealegre, Ornás, Sámano, Castro-Urdiales, Cantabria, 39709, España",€-48751.00
+2024-01-29 02:32:51.686541,Expense,Food,€-775.44,"Kortabaso, Uriondo, Zeberio, Bizkaia, Euskadi, 48148, España",€-49526.43
+2024-02-01 12:44:51.686541,Expense,Food,€-824.66,"29, Larrazabal kalea/Calle Larrazabal, Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-50351.10
+2024-02-02 06:00:51.686541,Income,Salary,€4034.79,"Bilbao, Spain",€-46316.30
+2024-02-02 15:33:51.686541,Expense,Food,€-852.53,"17, Calle Vitoria-Gazteiz/Vitoria-Gasteiz kalea, Areta, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-47168.83
+2024-02-03 16:41:51.686541,Expense,Leisure,€-672.66,"Via Verde Ferrocarril Vasco-Navarro, Mendaza, Estellerria / Tierra Estella, Navarra - Nafarroa, España",€-47841.49
+2024-02-03 18:51:51.686541,Expense,Food,€-771.08,"Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-48612.56
+2024-02-05 17:48:51.686541,Expense,Leisure,€-608.15,"BI-3513, Aranguren, Orozko, Bizkaia, Euskadi, 48410, España",€-49220.72
+2024-02-05 19:20:51.686541,Expense,Car,€-614.65,"Bilbao, Spain",€-49835.36
+2024-02-06 09:46:51.686541,Expense,Leisure,€-585.57,"Andraka, Bizkaia, Euskadi, 48620, España",€-50420.93
+2024-02-07 02:23:51.686541,Expense,Other,€-451.16,"Andraka, Bizkaia, Euskadi, 48620, España",€-50872.09
+2024-02-07 11:05:51.686541,Expense,Food,€-715.24,"Kantauriko Autobidea / Autopista del Cantábrico, Urbi, Ariz, Basauri, Bizkaia, Euskadi, 48970, España",€-51587.33
+2024-02-07 20:22:51.686541,Expense,Mortgage,€-1120.31,"Bilbao, Spain",€-52707.64
+2024-02-08 14:25:51.686541,Expense,Other,€-337.72,España,€-53045.36
+2024-02-09 13:09:51.686541,Expense,Food,€-956.67,"Mentxaketa, Elexalde, Laukiz, Andraka, Bizkaia, Euskadi, 48620, España",€-54002.03
+2024-02-09 20:09:51.686541,Expense,Food,€-724.83,"Andraka, Bizkaia, Euskadi, 48620, España",€-54726.86
+2024-02-09 23:27:51.686541,Expense,Leisure,€-515.58,"Ermita de San Roque, Carretera a Araduenga, Araduenga, La Llana, Valle de Mena, Burgos, Castilla y León, 01474, España",€-55242.44
+2024-02-11 23:08:51.686541,Income,Extra Income,€3216.58,"Bilbao, Spain",€-52025.86
+2024-02-12 14:46:51.686541,Expense,Food,€-907.91,"Camino Pontón, Bolueta, Begoña, Bilbao, Bizkaia, Euskadi, 48004, España",€-52933.76
+2024-02-13 17:40:51.686541,Expense,Utilities,€-401.59,"Bilbao, Spain",€-53335.35
+2024-02-14 10:33:51.686541,Expense,Other,€-388.57,"Bildusolakorta, Dima, Bizkaia, Euskadi, 48141, España",€-53723.93
+2024-02-15 12:59:51.686541,Expense,Food,€-872.67,"San Bernabé, Arkoba3, Gaztaineta, Güeñes, Bizkaia, Euskadi, 48093, España",€-54596.60
+2024-02-16 01:50:51.686541,Expense,Food,€-723.96,"Kantauriko errepidea, Gumuzio, Galdakao, Bizkaia, Euskadi, 48915, España",€-55320.55
+2024-02-16 21:21:51.686541,Expense,Car,€-600.44,"Bilbao, Spain",€-55921.00
+2024-02-17 18:57:51.686541,Expense,Food,€-825.26,"50, San Roke bidea, Uribarri, Bilbao, Bizkaia, Euskadi, 48015, España",€-56746.26
+2024-02-17 21:15:51.686541,Expense,Food,€-724.68,"Emerando, Meñaka, Andraka, Bizkaia, Euskadi, 48620, España",€-57470.94
+2024-02-18 04:46:51.686541,Expense,Other,€-447.19,"2, Calle Nicolás Alcorta / Nikolas Alkorta kalea, Iralabarri, Errekalde, Bilbao, Bizkaia, Euskadi, 48003, España",€-57918.13
+2024-02-22 05:06:51.686541,Expense,Food,€-899.16,"Carretera de San Pedro a Intxaurraga, Intxaurraga, Galdames, Bizkaia, Euskadi, 48191, España",€-58817.28
+2024-02-22 11:08:51.686541,Expense,Leisure,€-652.76,"Goienuri bidea, Isasi, Ugarte, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-59470.05
+2024-02-23 07:43:51.686541,Expense,Car,€-674.80,"Bilbao, Spain",€-60144.85
+2024-02-24 03:39:51.686541,Expense,Leisure,€-529.91,"BI-3102, Mendotza, Gamiz-Fika, Bizkaia, Euskadi, 48620, España",€-60674.76
+2024-02-26 21:21:51.686541,Expense,Other,€-382.21,"Udalondo, Goñi, Ibarrak / Valles, España",€-61056.97
+2024-03-01 01:52:51.686541,Expense,Food,€-859.43,"BI-3513, Zeberio, Bizkaia, Euskadi, 48148, España",€-61916.40
+2024-03-01 19:54:51.686541,Expense,Other,€-441.43,"Andraka, Bizkaia, Euskadi, 48620, España",€-62357.84
+2024-03-01 23:11:51.686541,Expense,Car,€-574.60,"Bilbao, Spain",€-62932.44
+2024-03-02 06:30:51.686541,Income,Salary,€4617.78,"Bilbao, Spain",€-58314.65
+2024-03-03 08:47:51.686541,Expense,Leisure,€-533.67,"BU-V-5023, Escóbados de Abajo, Los Altos, Burgos, Castilla y León, España",€-58848.33
+2024-03-03 20:03:51.686541,Expense,Leisure,€-619.01,España,€-59467.33
+2024-03-05 11:42:51.686541,Expense,Other,€-427.21,"Quintanilla San García, Burgos, Castilla y León, España",€-59894.54
+2024-03-07 00:29:51.686541,Expense,Other,€-419.85,"Andraka, Bizkaia, Euskadi, 48620, España",€-60314.39
+2024-03-08 07:43:51.686541,Expense,Other,€-387.65,"Zubitaga kalea/Calle Zubitaga, Lasarte, Vitoria-Gasteiz, Gasteizko kuadrilla/Cuadrilla de Vitoria, Araba/Álava, Euskadi, 01194, España",€-60702.04
+2024-03-09 09:42:51.686541,Expense,Food,€-863.43,"BI-3123, Gereka, Agirre, Arrieta, Bizkaia, Euskadi, 48114, España",€-61565.47
+2024-03-10 02:26:51.686541,Expense,Food,€-750.57,"Gumuzio auzoa, Gumuzio, Amorebieta-Etxano, Bizkaia, Euskadi, 48330, España",€-62316.04
+2024-03-11 11:25:51.686541,Expense,Other,€-367.93,"Palazioetarako bidea, Zamalloa, Dudagoitia, Amorebieta-Etxano, Bizkaia, Euskadi, 48340, España",€-62683.97
+2024-03-11 14:54:51.686541,Expense,Food,€-744.28,"Epaltza auzoa, Ixer, Epaltza, Amorebieta-Etxano, Bizkaia, Euskadi, 48340, España",€-63428.25
+2024-03-17 01:46:51.686541,Expense,Leisure,€-575.04,"Viaducto de Bárcena, Molledo, Cantabria, 39420, España",€-64003.29
+2024-03-17 04:09:51.686541,Expense,Other,€-359.29,"Bizkai kalea, Kurtzea, Galdakao, Bizkaia, Euskadi, 48960, España",€-64362.59
+2024-03-18 13:25:51.686541,Expense,Food,€-731.24,"Camino de Fano, Urezarantza, Orabil, Gorliz, Andraka, Bizkaia, Euskadi, 48620, España",€-65093.83
+2024-03-23 15:22:51.686541,Expense,Food,€-840.40,"Calle Askatasuna, La Quadra, Güeñes, Bizkaia, Euskadi, 48820, España",€-65934.23
+2024-03-25 13:19:51.686541,Expense,Leisure,€-580.42,"Agitiko senoa, 20170, España",€-66514.65
+2024-03-27 16:22:51.686541,Expense,Mortgage,€-1132.68,"Bilbao, Spain",€-67647.33
+2024-03-28 11:29:51.686541,Expense,Other,€-376.97,España,€-68024.30
+2024-03-29 09:27:51.686541,Expense,Other,€-438.18,"Abeto Douglas de Albiztur, Ergoena bailara, Tolosa, Gipuzkoa, Euskadi, 20150, España",€-68462.48
+2024-03-29 17:43:51.686541,Expense,Food,€-698.03,"Centro Ecuestre Solazpi, Goitioltza auzoa, Goitioltza, Lezama, Bizkaia, Euskadi, 48196, España",€-69160.51
+2024-03-30 13:07:51.686541,Expense,Food,€-952.18,"Carretera del Monte Avril / Avril errepidea, Galdakao, Bizkaia, Euskadi, 48960, España",€-70112.70
+2024-03-30 15:54:51.686541,Expense,Leisure,€-653.31,"Ontón-Otañes, Talledo, Castro-Urdiales, Cantabria, 39707, España",€-70766.01
+2024-04-01 01:52:51.686541,Expense,Other,€-446.45,"Andraka, Bizkaia, Euskadi, 48620, España",€-71212.46
+2024-04-02 05:08:51.686541,Expense,Other,€-372.76,"Pasarela de Azua, Marieta-Larrintzar, Barrundia, Arabako lautada/Llanada Alavesa, Araba/Álava, Euskadi, 01206, España",€-71585.22
+2024-04-02 12:05:51.686541,Income,Salary,€5690.27,"Bilbao, Spain",€-65894.94
+2024-04-03 12:41:51.686541,Expense,Food,€-843.98,"Eroso-Ugarte, Bedia, Bizkaia, Euskadi, 48390, España",€-66738.93
+2024-04-05 16:09:51.686541,Expense,Food,€-786.63,"Polígono Industrial Belako, Atela, Mungia, Andraka, Bizkaia, Euskadi, 48620, España",€-67525.56
+2024-04-07 09:04:51.686541,Income,Extra Income,€2915.07,"Bilbao, Spain",€-64610.49
+2024-04-09 18:04:51.686541,Expense,Leisure,€-631.18,"BU-710, Belorado, Burgos, Castilla y León, 09250, España",€-65241.67
+2024-04-10 03:54:51.686541,Expense,Other,€-368.33,"A-132, Antoñana, Campezo/Kanpezu, Montaña Alavesa/Arabako Mendialdea, Araba/Álava, Euskadi, 01128, España",€-65610.00
+2024-04-13 03:40:51.686541,Expense,Other,€-403.63,"Barrio - Sobrón, Barrio, Valdegovía/Gaubea, Añanako kuadrilla/Cuadrilla de Añana, Araba/Álava, Euskadi, 01423, España",€-66013.63
+2024-04-16 07:31:51.686541,Expense,Leisure,€-682.44,"Entrambosrios auzoa, Olabarrieta goitia, Olabarrieta, Mercadillo, Artzentales, Bizkaia, Euskadi, 48190, España",€-66696.07
+2024-04-17 10:56:51.686541,Expense,Food,€-819.30,"Deustuko arraun pabiloia, Avenida Zarandoa / Zarandoa etorbidea, San Ignazio-Elorrieta, Deusto, Bilbao, Bizkaia, Euskadi, 48015, España",€-67515.37
+2024-04-18 18:35:51.686541,Expense,Food,€-836.25,"Upo Mendi, Usansolo, Bizkaia, Euskadi, 48480, España",€-68351.63
+2024-04-19 07:56:51.686541,Expense,Food,€-834.59,"Carretera del Txorierri, Ibañez Betolatza, Zamarripa, Loiu, Andraka, Bizkaia, Euskadi, 48620, España",€-69186.21
+2024-04-20 09:38:51.686541,Expense,Other,€-446.42,"Eldegorri, Arratzu, Bizkaia, Euskadi, 48383, España",€-69632.63
+2024-04-21 01:52:51.686541,Expense,Food,€-754.37,"Alto Olarte, Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-70387.01
+2024-04-21 17:40:51.686541,Expense,Leisure,€-696.53,"Nates, Voto, Cantabria, 39761, España",€-71083.54
+2024-04-22 00:26:51.686541,Expense,Food,€-691.16,"Carretera de San Pedro a Intxaurraga, Intxaurraga, Galdames, Bizkaia, Euskadi, 48191, España",€-71774.70
+2024-04-24 15:47:51.686541,Expense,Mortgage,€-1134.36,"Bilbao, Spain",€-72909.06
+2024-04-25 20:39:51.686541,Expense,Car,€-524.82,"Bilbao, Spain",€-73433.88
+2024-04-26 02:17:51.686541,Expense,Leisure,€-647.64,"Senda de Goldetxo-Txolope-Solaiera bidea, Junta de Villalba de Losa, Burgos, Castilla y León, 48460, España",€-74081.52
+2024-04-27 20:45:51.686541,Expense,Other,€-412.29,"Briviesca, Burgos, Castilla y León, 09240, España",€-74493.81
+2024-04-28 08:59:51.686541,Expense,Food,€-725.57,"BI-3102, Elexalde, Mendotza, Gamiz-Fika, Andraka, Bizkaia, Euskadi, 48620, España",€-75219.38
+2024-04-28 09:32:51.686541,Expense,Utilities,€-434.45,"Bilbao, Spain",€-75653.83
+2024-04-30 12:19:51.686541,Expense,Food,€-772.53,"Errigoiti, Bizkaia, Euskadi, 40102, España",€-76426.36
+2024-04-30 19:43:51.686541,Expense,Food,€-785.00,"Zitaduiko Jarduera Gunea, Artzalde, Bakio, Andraka, Bizkaia, Euskadi, 48620, España",€-77211.36
+2024-05-02 07:29:51.686541,Income,Salary,€4386.83,"Bilbao, Spain",€-72824.53
+2024-05-03 13:55:51.686541,Expense,Other,€-377.75,"CL-127, Pedruzo, Condado de Treviño, Burgos, Castilla y León, España",€-73202.28
+2024-05-03 22:37:51.686541,Expense,Leisure,€-612.47,"Senda btt oion 1, Lapoblación, Montejurra, Navarra - Nafarroa, 01118, España",€-73814.75
+2024-05-04 12:25:51.686541,Expense,Food,€-793.24,"Montero etxea, 34, Alameda Recalde / Recalde zumarkalea, Uribitarte, Abando, Bilbao, Bizkaia, Euskadi, 48009, España",€-74608.00
+2024-05-04 19:59:51.686541,Expense,Food,€-802.07,"Garoa, Calle Uriortu / Uriortu kalea, Castaños, Uribarri, Bilbao, Bizkaia, Euskadi, 48071, España",€-75410.07
+2024-05-07 04:10:51.686541,Expense,Leisure,€-428.13,"Camino de Domaikia a Hueto Arriba, Hueto Arriba/Otogoien, Otogoien/Hueto Arriba, Vitoria-Gasteiz, Gasteizko kuadrilla/Cuadrilla de Vitoria, Araba/Álava, Euskadi, 01191, España",€-75838.20
+2024-05-07 14:01:51.686541,Expense,Food,€-829.15,"Covarón auzoa, Kobaron, Muskiz, Bizkaia, Euskadi, 39706, España",€-76667.35
+2024-05-08 10:16:51.686541,Expense,Food,€-768.45,"Basabal, Lezama, Bizkaia, Euskadi, 48915, España",€-77435.80
+2024-05-08 13:40:51.686541,Expense,Leisure,€-577.24,"Piedra Agudilla, Rucandio, Burgos, Castilla y León, 09559, España",€-78013.04
+2024-05-14 18:14:51.686541,Expense,Food,€-810.04,"Argalarioko sarrera, Barakaldo, Bizkaia, Euskadi, 48093, España",€-78823.08
+2024-05-15 21:34:51.686541,Expense,Other,€-391.53,"27, Calle Autonomía / Autonomia kalea, Ametzola, Errekalde, Bilbao, Bizkaia, Euskadi, 48012, España",€-79214.61
+2024-05-16 13:19:51.686541,Expense,Food,€-793.38,"Unibaso, Orozko, Bizkaia, Euskadi, 48410, España",€-80007.98
+2024-05-16 22:07:51.686541,Expense,Other,€-349.71,"Dolmen Zubarrieta, Azpillako bidea, Aralar mendilerroa / Sierra de Aralar, Larraun-Leitzaldea, 31840, España",€-80357.69
+2024-05-19 16:57:51.686541,Expense,Car,€-540.49,"Bilbao, Spain",€-80898.18
+2024-05-19 21:23:51.686541,Expense,Food,€-729.70,"Mosel, 53, Gran Vía Don Diego López de Haro / On Diego Lopez Haroko kale nagusia, Autonomia, Indautxu, Abando, Bilbao, Bizkaia, Euskadi, 48011, España",€-81627.88
+2024-05-20 04:35:51.686541,Expense,Utilities,€-354.30,"Bilbao, Spain",€-81982.18
+2024-05-23 00:28:51.686541,Expense,Food,€-711.72,"Las Ribas, Mercadillo, Sopuerta, Bizkaia, Euskadi, 48190, España",€-82693.89
+2024-05-23 12:11:51.686541,Expense,Other,€-367.08,"Tellerizelaieta, Zubialde, Zeberio, Bizkaia, Euskadi, 48148, España",€-83060.97
+2024-05-24 06:39:51.686541,Expense,Extra Expense,€-1778.71,"Carretera Bilbao-Galdakao, Kukullaga, Etxebarri, Bizkaia, Euskadi, 48450, España",€-84839.69
+2024-05-24 07:07:51.686541,Expense,Food,€-860.69,"Camino de Olagorta, Zorrotzaurre, San Pedro de Deusto-La Ribera, Deusto, Bilbao, Bizkaia, Euskadi, 48013, España",€-85700.38
+2024-05-26 10:47:51.686541,Expense,Food,€-739.89,"Ganeranerako igoera, Galdames, Bizkaia, Euskadi, 48191, España",€-86440.26
+2024-05-26 23:22:51.686541,Expense,Food,€-879.87,"Los Castañicos, Gordexola, Bizkaia, Euskadi, 48182, España",€-87320.13
+2024-05-28 00:29:51.686541,Expense,Other,€-438.97,"Taxis Raúl, Matxalen etxe-taldea, Urbanización La Magdalena, Abanto y Ciérvana-Abanto Zierbena, Bizkaia, Euskadi, 48500, España",€-87759.10
+2024-05-29 22:32:51.686541,Expense,Food,€-711.38,"Maje, Calle Rodríguez Arias / Rodriguez Arias kalea, Abando, Bilbao, Bizkaia, Euskadi, 48008, España",€-88470.49
+2024-05-30 03:17:51.686541,Expense,Other,€-391.43,"La Pedrosa, Soba, Cantabria, España",€-88861.91
+2024-05-31 09:05:51.686541,Expense,Leisure,€-559.97,"Camino Barruelo Baillo, Barruelo, Villarcayo de Merindad de Castilla la Vieja, Burgos, Castilla y León, 09513, España",€-89421.89
+2024-05-31 11:12:51.686541,Expense,Food,€-824.48,"AP-68, Arrigorriaga, Bizkaia, Euskadi, 48490, España",€-90246.36
+2024-06-01 10:10:51.686541,Expense,Other,€-421.19,"La Tazuela, Monasterio de Rodilla, Burgos, Castilla y León, España",€-90667.56
+2024-06-01 23:09:51.686541,Expense,Other,€-436.12,"Pozueta auzoa, Morgaondo, Erroteta, Morga, Bizkaia, Euskadi, 48309, España",€-91103.68
+2024-06-02 12:57:51.686541,Income,Salary,€4538.56,"Bilbao, Spain",€-86565.12
+2024-06-02 20:37:51.686541,Expense,Leisure,€-551.30,"Carretera del Valle de Villaverde a Artzentales, Traslosheros, San Miguel de Linares, Artzentales, Bizkaia, Euskadi, 48879, España",€-87116.42
+2024-06-02 23:27:51.686541,Expense,Other,€-466.38,España,€-87582.81
+2024-06-03 02:09:51.686541,Expense,Food,€-693.85,"Via vieja de lezama, Izarza, Sondika, Bizkaia, Euskadi, 48150, España",€-88276.66
+2024-06-07 10:24:51.686541,Expense,Other,€-359.87,"Goiko ur-jauziaren bidea, Róitegui/Erroitegi, Arraia-Maeztu, Montaña Alavesa/Arabako Mendialdea, Araba/Álava, Euskadi, 01129, España",€-88636.52
+2024-06-07 11:43:51.686541,Expense,Leisure,€-531.17,"Ruina, Subida al Askuren, Aloria, Amurrio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01468, España",€-89167.69
+2024-06-08 08:29:51.686541,Expense,Mortgage,€-1298.48,"Bilbao, Spain",€-90466.17
+2024-06-09 06:12:51.686541,Expense,Other,€-403.46,"Arteagoiti, Elexalde, Arizgoiti, Basauri, Bizkaia, Euskadi, 48970, España",€-90869.63
+2024-06-10 00:53:51.686541,Expense,Leisure,€-648.90,"Peñacuarta, Sopuerta, Bizkaia, Euskadi, 48190, España",€-91518.53
+2024-06-11 06:27:51.686541,Expense,Car,€-559.54,"Bilbao, Spain",€-92078.07
+2024-06-14 10:45:51.686541,Expense,Food,€-855.11,"Campo de fútbol de Las Balsas, Orconera auzoa, La Chava/Etxaba, Las Losinas, Ortuella, Bizkaia, Euskadi, 48530, España",€-92933.18
+2024-06-15 02:05:51.686541,Expense,Food,€-895.67,"Carretera del Antiguo Parque de Atracciones de Bilbao, Olabarrieta, Kurtzea, Galdakao, Bizkaia, Euskadi, 48960, España",€-93828.85
+2024-06-18 07:29:51.686541,Expense,Utilities,€-398.36,"Bilbao, Spain",€-94227.22
+2024-06-19 14:06:51.686541,Expense,Food,€-590.93,"Lastetxe kalea, Zabaloetxe, Loiu, Andraka, Bizkaia, Euskadi, 48620, España",€-94818.14
+2024-06-21 05:04:51.686541,Expense,Other,€-387.44,"Los Torcachos, Karrantza Harana/Valle de Carranza, Bizkaia, Euskadi, España",€-95205.58
+2024-06-23 11:30:51.686541,Expense,Other,€-436.48,"Bilbao Port, Santurtzi, Bizkaia, Euskadi, 48620, España",€-95642.05
+2024-06-24 21:43:51.686541,Expense,Other,€-376.13,"Bidasoa, Irun, Bidasoa Beherea / Bajo Bidasoa, Gipuzkoa, Euskadi, 20304, España",€-96018.19
+2024-06-25 23:38:51.686541,Expense,Leisure,€-588.23,"LR-304, Foncea, La Rioja, España",€-96606.42
+2024-06-26 01:16:51.686541,Expense,Food,€-839.37,"30, Jesus Maria Leizaola kalea, Axgane, Iturriaga, Berango, Andraka, Bizkaia, Euskadi, 48620, España",€-97445.79
+2024-06-26 14:31:51.686541,Expense,Other,€-472.42,"Andraka, Bizkaia, Euskadi, 48620, España",€-97918.21
+2024-06-28 03:48:51.686541,Expense,Leisure,€-476.10,"Sohazas, Valderredible, Cantabria, 39230, España",€-98394.30
+2024-06-28 21:22:51.686541,Expense,Leisure,€-532.11,"San Mamés, Valle de Losa, Burgos, Castilla y León, España",€-98926.42
+2024-06-28 23:45:51.686541,Expense,Car,€-664.06,"Bilbao, Spain",€-99590.47
+2024-06-30 13:31:51.686541,Expense,Food,€-817.34,"Bodegas Itsasmendi, Amunaga industrialdea, Gernika-Lumo, Bizkaia, Euskadi, 48300, España",€-100407.81
+2024-07-01 16:03:51.686541,Expense,Car,€-613.14,"Bilbao, Spain",€-101020.95
+2024-07-01 23:04:51.686541,Expense,Food,€-847.60,"9, More estrata, Sarriko, Deusto, Bilbao, Bizkaia, Euskadi, 48015, España",€-101868.55
+2024-07-02 08:05:51.686541,Income,Salary,€5298.09,"Bilbao, Spain",€-96570.46
+2024-07-03 01:51:51.686541,Expense,Food,€-841.83,"BI-R4 Ansio-Gurutzeta-Gorostiza Bidegorria, Gorostiza, Barakaldo, Bizkaia, Euskadi, 48903, España",€-97412.29
+2024-07-03 23:07:51.686541,Expense,Leisure,€-564.28,"Langaurraldea, Langaurrealdea, Alegia, Gipuzkoa, Euskadi, 20260, España",€-97976.57
+2024-07-06 00:44:51.686541,Expense,Leisure,€-630.86,"Autopista del Norte, Barrio de Santo Cristo, Pancorbo, Burgos, Castilla y León, 09280, España",€-98607.43
+2024-07-06 01:38:51.686541,Expense,Food,€-854.00,"Launtxugoikoa kalea/Calle Launtxugoikoa, Santa Cruz de Llodio, Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-99461.42
+2024-07-08 11:48:51.686541,Expense,Other,€-407.52,"32, Barrio San Cristóbal, Aldekoena, Derio, Andraka, Bizkaia, Euskadi, 48620, España",€-99868.94
+2024-07-09 05:45:51.686541,Expense,Leisure,€-604.20,"Tantaminetak, Amorebieta-Etxano, Bizkaia, Euskadi, 48144, España",€-100473.14
+2024-07-09 09:47:51.686541,Expense,Other,€-429.86,"013, Herriko Plaza, Elexabeitia, Artea, Bizkaia, Euskadi, 48142, España",€-100903.00
+2024-07-10 10:06:51.686541,Expense,Food,€-673.34,"Bilbao - Atxukarro errepidea, Lanbarketa, Brisketa, Ibaiondo, Arrigorriaga, Bizkaia, Euskadi, 48480, España",€-101576.34
+2024-07-10 14:49:51.686541,Expense,Other,€-355.90,España,€-101932.24
+2024-07-12 10:32:51.686541,Expense,Food,€-692.30,"8, Etxezuri kalea, Asunción, Uribarri, Bilbao, Bizkaia, Euskadi, 48007, España",€-102624.54
+2024-07-13 16:50:51.686541,Expense,Food,€-867.15,"Juan de Garay kalea, Iralabarri, Errekalde, Bilbao, Bizkaia, Euskadi, 48008, España",€-103491.69
+2024-07-14 23:32:51.686541,Expense,Utilities,€-358.68,"Bilbao, Spain",€-103850.37
+2024-07-15 20:47:51.686541,Expense,Other,€-396.64,"Barrio La Iglesia, Anero, Ribamontán al Monte, Cantabria, 39794, España",€-104247.01
+2024-07-17 03:17:51.686541,Expense,Other,€-385.55,"LR-419, Torrecilla sobre Alesanco, La Rioja, 26323, España",€-104632.56
+2024-07-17 19:33:51.686541,Expense,Food,€-849.86,"Arrikantara, Pagazandu, Orozko, Bizkaia, Euskadi, 48410, España",€-105482.42
+2024-07-18 07:15:51.686541,Expense,Leisure,€-622.65,"Hayedo de Morales, Grañón, La Rioja, 26259, España",€-106105.07
+2024-07-18 20:33:51.686541,Expense,Food,€-845.20,"96, Camino de Santa Marina, Barrio Kukullaga, Otxarkoaga-Txurdinaga, Bilbao, Bizkaia, Euskadi, 48004, España",€-106950.27
+2024-07-19 23:15:51.686541,Expense,Other,€-435.48,"Calle Bahamontes, Quintanaurria, Carcedo de Bureba, Burgos, Castilla y León, España",€-107385.75
+2024-07-20 19:33:51.686541,Expense,Other,€-433.23,España,€-107818.98
+2024-07-21 17:04:51.686541,Expense,Food,€-761.90,"BI-3151, Berreaga, Armintza, Lemoiz, Andraka, Bizkaia, Euskadi, 48620, España",€-108580.88
+2024-07-22 12:42:51.686541,Expense,Other,€-492.28,"Danboki, 24, Lezo – Hondarribia, Jaizkibel gainetik, Akartegi, Hondarribia, Bidasoa Beherea / Bajo Bidasoa, Gipuzkoa, Euskadi, 20280, España",€-109073.15
+2024-07-23 10:19:51.686541,Expense,Food,€-950.09,"Done Eztebe, BI-2524, Ermitabarri, Ermitabarri-Ibarra, Zeberio, Bizkaia, Euskadi, 48148, España",€-110023.24
+2024-07-24 13:39:51.686541,Expense,Leisure,€-634.05,"Moregi, Metauten, Estellerria / Tierra Estella, Navarra - Nafarroa, 31241, España",€-110657.30
+2024-07-24 22:31:51.686541,Expense,Other,€-337.02,"Izauza, Urbasa, Sakana, España",€-110994.32
+2024-07-26 05:08:51.686541,Expense,Food,€-857.48,"Eleizalde, Derio, Bizkaia, Euskadi, 48170, España",€-111851.80
+2024-07-27 13:07:51.686541,Expense,Other,€-406.94,"La Raneja, Castrobarto, Junta de Traslaloma, Burgos, Castilla y León, España",€-112258.74
+2024-08-02 05:03:51.686541,Income,Salary,€5436.47,"Bilbao, Spain",€-106822.28
+2024-08-02 23:59:51.686541,Expense,Other,€-407.25,"Hozas Grandes, Voto, Cantabria, 39762, España",€-107229.53
+2024-08-03 08:20:51.686541,Expense,Food,€-736.45,"Potzu Illuna, Larragan, Mungia, Andraka, Bizkaia, Euskadi, 48620, España",€-107965.98
+2024-08-04 13:45:51.686541,Expense,Utilities,€-417.49,"Bilbao, Spain",€-108383.47
+2024-08-05 18:54:51.686541,Expense,Leisure,€-515.75,"Vertical del Arrastaleku, Errekalde, Bilbao, Bizkaia, Euskadi, 48002, España",€-108899.22
+2024-08-06 00:42:51.686541,Expense,Food,€-737.11,"Calle Nuestra Señora de la Guía, Nuestra Señora de la Guía, Alonsotegi, Bizkaia, Euskadi, 48820, España",€-109636.33
+2024-08-11 02:03:51.686541,Expense,Other,€-384.40,"San Esteban de Treviño, Condado de Treviño, Burgos, Castilla y León, 09294, España",€-110020.73
+2024-08-11 03:32:51.686541,Expense,Car,€-542.48,"Bilbao, Spain",€-110563.21
+2024-08-13 02:08:51.686541,Expense,Food,€-841.54,"Enekuri - Artxanda errepidea, Asunción, Uribarri, Bilbao, Bizkaia, Euskadi, 48007, España",€-111404.75
+2024-08-14 04:26:51.686541,Expense,Other,€-387.87,"Las Cortinas, Medina de Pomar, Burgos, Castilla y León, España",€-111792.62
+2024-08-15 12:35:51.686541,Expense,Other,€-352.48,"1, Fuente el Canto, Ollávarre/Olabarri, Iruña Oka/Iruña de Oca, Añanako kuadrilla/Cuadrilla de Añana, Araba/Álava, Euskadi, 01428, España",€-112145.10
+2024-08-16 21:34:51.686541,Expense,Other,€-403.69,"San Pedro del Romeral-Puerto de La Matanela, Luena, Cantabria, 39681, España",€-112548.79
+2024-08-18 09:02:51.686541,Expense,Other,€-440.02,"Carretera de Antuñano, Las Arenas de Ayega, Valle de Mena, Burgos, Castilla y León, 48800, España",€-112988.81
+2024-08-21 21:21:51.686541,Expense,Car,€-648.38,"Bilbao, Spain",€-113637.20
+2024-08-23 06:48:51.686541,Expense,Food,€-737.89,"3, Enekuri-Artxanda errepidea, Deusto, Bilbao, Bizkaia, Euskadi, 48015, España",€-114375.09
+2024-08-23 15:06:51.686541,Expense,Car,€-425.20,"Bilbao, Spain",€-114800.29
+2024-08-24 02:39:51.686541,Expense,Leisure,€-542.03,"LR-311, Zarratón, La Rioja, 26291, España",€-115342.32
+2024-08-24 04:41:51.686541,Expense,Other,€-426.09,España,€-115768.41
+2024-08-24 07:05:51.686541,Expense,Food,€-755.41,"26, BI-2121, Ugarte, Muxika, Bizkaia, Euskadi, 48392, España",€-116523.82
+2024-08-26 22:31:51.686541,Expense,Leisure,€-542.70,España,€-117066.52
+2024-08-27 17:23:51.686541,Expense,Food,€-724.74,"Zangroiz, Sondika, Bizkaia, Euskadi, 48150, España",€-117791.26
+2024-08-29 08:43:51.686541,Expense,Food,€-921.81,"BI-2704, Sopela, Andraka, Bizkaia, Euskadi, 48620, España",€-118713.07
+2024-08-30 10:50:51.686541,Expense,Food,€-772.07,"8, Larrazabal kalea/Calle Larrazabal, Larrazabal-Gardea, Laudio/Llodio, Aiarako kuadrilla/Cuadrilla de Ayala, Araba/Álava, Euskadi, 01400, España",€-119485.15
+2024-08-31 16:17:51.686541,Expense,Food,€-770.21,"Arbieto kalea, Abando, Bilbao, Bizkaia, Euskadi, 01232, España",€-120255.36
+2024-09-01 13:33:51.686541,Expense,Other,€-449.27,"El Escobal, Selaya, Cantabria, 39685, España",€-120704.63
+2024-09-02 06:30:51.686541,Income,Salary,€4015.45,"Bilbao, Spain",€-116689.17
+2024-09-02 21:24:51.686541,Expense,Other,€-339.67,"Ostakusko bidea, Arano, Larraun-Leitzaldea, 31754, España",€-117028.85
+2024-09-03 08:48:51.686541,Expense,Food,€-884.00,"Urresti, Gatika, Andraka, Bizkaia, Euskadi, 48620, España",€-117912.84
+2024-09-04 23:33:51.686541,Expense,Food,€-755.71,"Sabino Arana etorbidea / Avenida Sabino Arana, Autonomia, Indautxu, Basurtu-Zorrotza, Bilbao, Bizkaia, Euskadi, 48010, España",€-118668.55
+2024-09-07 11:27:51.686541,Expense,Food,€-914.13,"Hotel The Artist - Grand Hotel of Art, 61, Alameda Mazarredo / Mazarredo zumarkalea, Abandoibarra, Abando, Bilbao, Bizkaia, Euskadi, 48009, España",€-119582.68
+2024-09-08 02:44:51.686541,Expense,Other,€-406.61,"2A, Ramon Rubial kalea, Arriaga, Astrabudua, Erandio, Andraka, Bizkaia, Euskadi, 48620, España",€-119989.29
+2024-09-10 20:40:51.686541,Expense,Food,€-702.71,"Elexalde auzoa, Gurutzalde, Zaratamo, Bizkaia, Euskadi, 48480, España",€-120692.00
+2024-09-15 04:25:51.686541,Expense,Other,€-386.81,"Los Lirios, Haro, La Rioja, 26330, España",€-121078.81
+2024-09-17 04:50:51.686541,Expense,Utilities,€-352.58,"Bilbao, Spain",€-121431.39
+2024-09-22 03:55:51.686541,Expense,Leisure,€-629.53,"Indautxu, Abando, Bilbao, Bizkaia, Euskadi, 48014, España",€-122060.93
+2024-09-23 03:00:51.686541,Expense,Food,€-873.25,"116, Barrio Betolatza / Betolatza Auzoa, Uretamendi, Errekalde, Bilbao, Bizkaia, Euskadi, 48002, España",€-122934.18
+2024-09-24 18:16:51.686541,Expense,Leisure,€-631.69,"54, Urbanización Señorío de Vivanco, Valle de Mena, Burgos, Castilla y León, 09587, España",€-123565.87
+2024-09-24 19:47:51.686541,Expense,Utilities,€-378.98,"Bilbao, Spain",€-123944.85
+2024-09-25 06:01:51.686541,Expense,Food,€-750.40,"Bilbao - Bermeo errepidea, Emerando, Meñaka, Andraka, Bizkaia, Euskadi, 48620, España",€-124695.25
+2024-09-26 12:33:51.686541,Expense,Extra Expense,€-2063.54,"Arene, Uribarri, Arrankudiaga, Arrankudiaga-Zollo, Bizkaia, Euskadi, 48490, España",€-126758.79

@@ -2,3 +2,7 @@ streamlit
 pandas 
 numpy 
 plotly
+faker
+geopy
+fastapi
+uvicorn 
